@@ -1,0 +1,50 @@
+body {background-color:MistyRose
+}
+hr{
+ border-style:none;
+ border-top-style:dotted;
+ border-color:gray;
+ border-width:5px; 
+}
+h1{
+    color:#5ca0d3
+}
+h1:hover{
+    color:#b0e0a8
+}
+h2{
+    color:#5ca0d3
+}
+
+/*h1{
+    color:palevioletred
+}
+*/
+
+img:hover{
+    border-radius: 8px;
+    background-color: aquamarine
+}
+
+.clorr{
+    background-color: red;
+
+}
+.oo{
+    border-radius: 38px;
+}
+
+#head1:hover{
+    color:red;
+}
+#head1{
+    color:gold;
+}
+
+#head2{
+    color:blue;
+}
+
+#head{
+    color:blue;
+}
